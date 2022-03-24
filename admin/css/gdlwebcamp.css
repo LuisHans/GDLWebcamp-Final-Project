@@ -1,0 +1,29 @@
+ul.lista-precios {
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+ul.lista-precios li {
+    text-align: center;
+}
+ul.lista-precios li .numero {
+    font-size: 30px;
+}
+
+.contenido-dia label {
+    font-weight: normal;
+
+}
+.contenido-dia  {
+    display: none;
+}
+.contenido-dia label time{
+    color: #fe4918;
+    font-weight: bold;
+}
+.tabla-precio h3 {
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #fe4918;
+    font-weight: bold;
+}
